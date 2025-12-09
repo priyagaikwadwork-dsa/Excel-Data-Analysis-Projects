@@ -23,7 +23,7 @@ Data Cleaning & Conditional Formatting
 ~Dataset with Employee ID, Age, Department, Job Role, Attrition Status, Experience, Salary, and Performance Rating.
 
 📈 Dashboard Preview
-<img width="1865" height="652" alt="Dashboar_Preview_1" src="https://github.com/user-attachments/assets/72a4a19f-65b8-4a80-8c26-d25329230f19" />
+<img width="1865" height="652" alt="Dashboar_Preview_1" src="https://github.com/user-attachments/assets/679655cd-256f-43a4-9bec-0ef5a7190a0c" />
 
 
 🔑 Key Insights
