@@ -1,4 +1,5 @@
-Education Performance & Student Insights Dashboard (Excel)
+Education Performance & Student Insights Dashboard
+
 📌 Overview
 
 Interactive Excel dashboard analyzing student performance, subject-wise scores, and academic trends.
@@ -37,6 +38,6 @@ Certain classes require targeted academic support programs.
 
 📁 Files
 
-Education_Dashboard.xlsx
+Education_Performance_Student_Insights_Dashboard.xlsx
 
-education_preview.png
+dashboard_preview.png
