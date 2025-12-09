@@ -39,5 +39,7 @@ Certain roles (e.g., Sales Executive) are more prone to leaving.
 📁 Files
 
 HR_Attrition_Dataset_and_Dashboard.xlsx
-hr_dashboard_preview_1.png
-hr_dashboard_preview_2.png
+
+hr_dashboard_preview.png
+
+
