@@ -17,6 +17,9 @@ To visualize key sales metrics and generate insights that support data-driven de
 ~Dataset with Sales, Profit, Category, Region, Discount, Quantity, Order Date.
 
 ## 📈 Dashboard Preview  
+<img width="1774" height="687" alt="Dashboard_Preview_1" src="https://github.com/user-attachments/assets/0fc33f5e-1f4d-4c38-91d7-b963f580f907" />
+
+<img width="1837" height="669" alt="Dashboard_Preview_2" src="https://github.com/user-attachments/assets/30738440-55c4-43cd-87cf-cbc1de6a9d14" />
 
 
 ## 🔑 Key Insights  
