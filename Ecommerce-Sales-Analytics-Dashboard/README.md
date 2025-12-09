@@ -1,4 +1,4 @@
-# 📊 Ecommerce Sales Analytics Dashboard (Excel)
+# 📊 Ecommerce Sales Analytics Dashboard
 
 ## 📌 Overview  
 Interactive Excel dashboard analyzing ecommerce sales, profit trends, regional performance, product categories, and customer behavior.
