@@ -46,6 +46,6 @@ Optimize messaging for lower-engaged groups to improve overall conversion.
 
 📂 Files
 
-dataset.xlsx – Raw dataset & dashboard in one file
+Education_Performance_Student_Insights_Dashboard.xlsx – Raw dataset & dashboard in one file
 
 Marketing_Dashboard.png – Dashboard screenshot preview
