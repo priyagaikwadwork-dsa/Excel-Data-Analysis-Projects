@@ -1,4 +1,5 @@
 Bank Marketing Analytics Dashboard
+
 📌 Project Overview
 
 Analyzed a bank marketing campaign dataset to understand customer response patterns and improve campaign effectiveness. Built an interactive Excel dashboard summarizing customer demographics, campaign outcomes, and product trends.
