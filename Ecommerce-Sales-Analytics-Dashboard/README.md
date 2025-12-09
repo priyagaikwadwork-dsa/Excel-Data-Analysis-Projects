@@ -27,6 +27,6 @@ To visualize key sales metrics and generate insights that support data-driven de
 - Standard Class is the most used shipping mode.  
 
 ## 📁 Files  
-- Dashboard.xlsx  
-- Dataset.xlsx  
-- dashboard_preview.png  
+- Ecommerce_Sales_Dataset_and_Dashboard.xlsx  
+- dashboard_preview_1.png 
+- dashboard_preview_2.png  
